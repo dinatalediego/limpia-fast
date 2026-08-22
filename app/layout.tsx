@@ -11,7 +11,7 @@ const pixelId = process.env.NEXT_PUBLIC_META_PIXEL_ID;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: 'Lavado de muebles en Huacho | LimpiaFast',
+  title: 'Lavado de muebles a domicilio | LimpiaFast',
   description: 'Cotiza el lavado de tu sofá, colchón, alfombra o sillas a domicilio. Cuéntanos qué necesitas y envía una foto para recibir una cotización clara.',
   applicationName: 'LimpiaFast',
   alternates: { canonical: '/' },
